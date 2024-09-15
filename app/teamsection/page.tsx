@@ -29,9 +29,9 @@ export default function Team() {
             bio: 'Creating intuitive and beautiful user experiences is my passion.',
             image: 'https://images.unsplash.com/photo-1519345182560-3f2917c472ef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80',
             social: {
-                linkedin: '#',
-                instagram: '#',
-                github: '#'
+                linkedin: 'https://www.linkedin.com/in/prem-kamble',
+                instagram: 'https://instagram.com/pr3msig',
+                github: 'https://github.com/pr3m-kamble'
             }
         },
         {

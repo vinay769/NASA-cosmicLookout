@@ -27,7 +27,7 @@ export default function Team() {
             name: 'Prem Kamble',
             role: 'Frontend Developer',
             bio: 'Creating intuitive and beautiful user experiences is my passion.',
-            image: 'https://images.unsplash.com/photo-1519345182560-3f2917c472ef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80',
+            image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROGewTfrdUZI0O-FT07eQRrQyHeDyOOo90sg&s',
             social: {
                 linkedin: 'https://www.linkedin.com/in/prem-kamble',
                 instagram: 'https://instagram.com/pr3msig',

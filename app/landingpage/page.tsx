@@ -37,9 +37,9 @@ export default function Landingpage() {
             <span className="text-2xl font-bold">CosmicLookout</span>
           </div>
           <div className="hidden md:flex space-x-4">
-            <a href="#features" className="hover:text-blue-400 transition-colors">Home</a>
-            <a href="#features" className="hover:text-blue-400 transition-colors">Planets</a>
-            <a href="#contact" className="hover:text-blue-400 transition-colors">Team</a>
+            <a href="#" className="hover:text-blue-400 transition-colors">Home</a>
+            <a href="#asteroidsec" className="hover:text-blue-400 transition-colors">Planets</a>
+            <a href="#teamsection" className="hover:text-blue-400 transition-colors">Team</a>
             <a href="#about" className="hover:text-blue-400 transition-colors">About</a>
 
           </div>

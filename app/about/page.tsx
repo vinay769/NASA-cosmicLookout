@@ -105,13 +105,13 @@ export default function About() {
 
             <p className="text-lg mb-4 animate-fade-in">
 
-              Embark on a journey to explore Near-Earth Objects (NEOs) with our state-of-the-art space exploration program. 
-           
-              As a leader in providing comprehensive knowledge of the solar system,
-             
-              we are at the forefront of expanding the horizons of human understanding and discovery.
+              Join us on an extraordinary mission to explore Near-Earth Objects (NEOs) through our cutting-edge space exploration program.
+            
+              As a leader in advancing knowledge of the solar system,
+            
+              we are pioneering new frontiers in human understanding and discovery.
 
-      
+              
             </p>
 
             <p className="text-lg animate-fade-in delay-300">

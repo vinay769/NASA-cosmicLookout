@@ -9,19 +9,25 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-three/drei": "^9.114.0",
+    "@react-three/fiber": "^8.17.8",
+    "cesium": "^1.121.1",
     "framer-motion": "^11.5.4",
+    "gsap": "^3.12.5",
     "lucide-react": "^0.439.0",
-    "next": "14.2.9",
+    "next": "^14.2.13",
     "react": "^18",
     "react-dom": "^18",
     "react-icons": "^5.3.0",
-    "react-slick": "^0.30.2"
+    "react-slick": "^0.30.2",
+    "three-globe": "^2.31.3"
   },
   "devDependencies": {
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "@types/react-slick": "^0.23.13",
+    "@types/three": "^0.168.0",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"

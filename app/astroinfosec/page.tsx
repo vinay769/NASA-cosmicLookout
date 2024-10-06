@@ -7,7 +7,10 @@ export default function Astroinfosec() {
 
     useEffect(() => {
         setIsVisible(true)
-    }, [])
+    }, []);
+    // Api 5canjlfbQBWS4roNJ9hvMLEB5c8QTIomDmKbqp5f1
+
+    //https://api.nasa.gov/neo/rest/v1/feed?start_date=2015-09-07&end_date=2015-09-08&api_key=5canjlfbQBWS4roNJ9hvMLEB5c8QTIomDmKbqp5f1
 
     const solarsystem = [
 
@@ -188,6 +191,8 @@ export default function Astroinfosec() {
 
     ];
 
+
+
     return (
         <div className="min-h-screen bg-black text-white overflow-hidden relative">
             {/* Twinkling stars background */}
@@ -215,7 +220,7 @@ export default function Astroinfosec() {
                     <h1 className="text-5xl font-bold mb-20 text-center animate-pulse text-blue-400">
                         Our Solar System: A Planetary Overview
                     </h1>
-                    <h2>Solar System Planets are the eight celestial bodies that orbit the Sun.
+                    <h2 className='text-xl md:text-2xl mb-12 mt-10 animate-fade-in animation-delay-200'>Solar System Planets are the eight celestial bodies that orbit the Sun.
                         <br />
                         Each planet has its unique characteristics, from the extreme temperatures of Mercury and Venus to the giant storms of Jupiter and Saturn. The study of these planets helps us understand the formation and evolution of our solar system and the possibility of life beyond Earth.</h2>
 
@@ -247,7 +252,7 @@ export default function Astroinfosec() {
                     <h1 className="text-5xl font-bold mb-20 text-center animate-pulse text-blue-200">
                         Top 10 Near-Earth Asteroids
                     </h1>
-                    <h2>Near-Earth Asteroids (NEAs) are celestial bodies that orbit the Sun and pass within a certain distance of Earth. These objects can pose a potential threat to our planet, and their study is crucial for understanding and mitigating potential risks</h2>
+                    <h2 className='text-xl md:text-2xl mb-12 mt-10 animate-fade-in animation-delay-200'>Near-Earth Asteroids (NEAs) are celestial bodies that orbit the Sun and pass within a certain distance of Earth. These objects can pose a potential threat to our planet, and their study is crucial for understanding and mitigating potential risks</h2>
 
                 </main>
 
@@ -274,7 +279,7 @@ export default function Astroinfosec() {
                     <h1 className="text-5xl font-bold mb-20 text-center animate-pulse text-blue-400">
                         Top 10 Near-Earth Comets
                     </h1>
-                    <h2>Near-Earth Comets (NECs) are comets that pass within 1.3 astronomical units (AU) of Earth's orbit. These celestial bodies are composed of ice, dust, and gas, and they often have long tails when they approach the Sun.</h2>
+                    <h2 className='text-xl md:text-2xl mb-12 mt-10 animate-fade-in animation-delay-200'>Near-Earth Comets (NECs) are comets that pass within 1.3 astronomical units (AU) of Earth's orbit. These celestial bodies are composed of ice, dust, and gas, and they often have long tails when they approach the Sun.</h2>
 
 
                 </main>
@@ -301,7 +306,7 @@ export default function Astroinfosec() {
             </div>
 
             {/* Floating space objects */}
-            <div className="absolute top-1 left-1/4 w-16 h-16 bg-purple-500 rounded-full opacity-50 animate-float" />
+            <div className="absolute top-5 left-1/4 w-16 h-16 bg-purple-500 rounded-full opacity-50 animate-float" />
             <div className="absolute bottom-1/4 right-1 w-24 h-24 bg-blue-500 rounded-full opacity-30 animate-float animation-delay-1000" />
             <div className="absolute top-3/4 right-100 w-12 h-12 bg-red-500 rounded-full opacity-40 animate-float animation-delay-2000" />
 

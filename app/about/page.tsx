@@ -47,18 +47,18 @@ export default function About() {
               <Image
                 src={"/hyperspacehackslogo.jpg"}
                 alt="Space Mission"
-                className="w-full h-full object-cover"
+                className="w-full h-full object-cover transition-transform duration-300 hover:scale-110"
                 height="100"
                 width="400"
               />
             </div>
             <div className="flex-1">
-              <p className="text-lg mb-4 animate-fade-in">
+              <p className="text-xl md:text-2xl mb-12 mt-10 animate-fade-in animation-delay-200">
                 Embark on a journey to the near earth objects(NEOs) with our cutting-edge space exploration program.
                 We're the one with all essential information about the solar system ,
                 pushing the boundaries of human knowledge.
               </p>
-              <p className="text-lg animate-fade-in delay-300">
+              <p className="text-indigo-400 mb-4">
                 Our team of brilliant engineers, and astrophysicist are here to help you to provide the near earth objects exploration.
               </p>
             </div>

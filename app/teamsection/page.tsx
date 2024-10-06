@@ -28,7 +28,7 @@ export default function Team() {
             name: 'Prem Kamble',
             role: 'Frontend Developer',
             bio: 'Creating intuitive and beautiful user experiences is my passion.',
-            image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROGewTfrdUZI0O-FT07eQRrQyHeDyOOo90sg&s',
+            image: '/prem.jpeg',
             social: {
                 linkedin: 'https://www.linkedin.com/in/prem-kamble',
                 instagram: 'https://instagram.com/pr3msig',
@@ -39,7 +39,7 @@ export default function Team() {
             name: 'Velavan',
             role: 'UI/UX Designer',
             bio: 'Bringing teams together to deliver outstanding results on time.',
-            image: 'https://images.unsplash.com/photo-1519345182560-3f2917c472ef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80',
+            image: '/boyuser.jpeg',
             social: {
                 linkedin: '#',
                 instagram: '#',
@@ -50,7 +50,7 @@ export default function Team() {
             name: 'Krish',
             role: 'Frontend Developer',
             bio: 'Driving growth through innovative digital marketing strategies.',
-            image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80',
+            image: '/boyuser.jpeg',
             social: {
                 linkedin: '#',
                 instagram: '#',
@@ -61,7 +61,7 @@ export default function Team() {
             name: 'Tunir',
             role: 'Astrophyscist',
             bio: 'Driving growth through innovative digital marketing strategies.',
-            image: 'https://images.unsplash.com/photo-1519345182560-3f2917c472ef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80',
+            image: '/boyuser.jpeg',
             social: {
                 linkedin: '#',
                 instagram: '#',
@@ -72,7 +72,7 @@ export default function Team() {
             name: 'Swarnaduti',
             role: 'Backend Developer',
             bio: 'Driving growth through innovative digital marketing strategies.',
-            image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=300&q=80',
+            image: '/girluser.jpeg',
             social: {
                 linkedin: '#',
                 instagram: '#',
